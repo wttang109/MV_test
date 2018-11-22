@@ -2,7 +2,7 @@
 """
 Created on Mon Oct  8 10:46:19 2018
 
-@author: sue
+@author:  https://morvanzhou.github.io/
 """
 
 # 标准化数据模块
