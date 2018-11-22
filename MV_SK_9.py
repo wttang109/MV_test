@@ -2,7 +2,7 @@
 """
 Created on Tue Oct  9 11:24:04 2018
 
-@author: sue
+@author:  https://morvanzhou.github.io/
 """
 
 from sklearn.learning_curve import learning_curve #学习曲线模块
