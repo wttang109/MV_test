@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 11 10:25:40 2018
 
-@author: sue
+@author: https://morvanzhou.github.io/
 """
 
 from sklearn.learning_curve import validation_curve #validation_curve模块
