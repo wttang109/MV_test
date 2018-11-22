@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 31 16:54:40 2018
 
-@author: sue
+@author: https://github.com/c1mone/Tensorflow-101/blob/master/notebooks/3_MNIST_CNN_Layer_Visualization.ipynb
 """
 
 import tensorflow as tf
