@@ -2,7 +2,7 @@
 """
 Created on Mon Oct  8 16:48:27 2018
 
-@author: sue
+@author: study note from https://morvanzhou.github.io/
 """
 
 from sklearn.datasets import load_iris # iris数据集
